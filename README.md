@@ -5,15 +5,11 @@ $AMONG (AmongUs.Finance) is an Ethereum blockchain-based recreation of the popul
 
 **There are two kinds of tokens in Amongus.finance:**
 
-**$AMONG** - governance erc20 token that used for placing the bets in game, for staking, for farming. 21,000,000 max supply.
+[$AMONG](https://etherscan.io/token/0xF841D292c1141cbF1460A1E2010916565a010cc8) - governance erc20 token that used for placing the bets in game, for staking, for farming. 21,000,000 max supply. Verified smart contract on Ethereum mainnet: [0xF841D292c1141cbF1460A1E2010916565a010cc8](https://etherscan.io/token/0xF841D292c1141cbF1460A1E2010916565a010cc8)
 
-[$AMONG](https://etherscan.io/token/0xF841D292c1141cbF1460A1E2010916565a010cc8) smart contract on Ethereum mainnet: [0xF841D292c1141cbF1460A1E2010916565a010cc8](https://etherscan.io/token/0xF841D292c1141cbF1460A1E2010916565a010cc8)
+[$ATICKET](https://etherscan.io/token/0xF1A7A19029B66Bd8C01c74A93722a2B741A1E0Ca) - NFT token that used to enter/create game, for store special data like rare skins, perpetual feature, etc. You can get regular ATICKET by farming on ur website (stake AMONG and get ATICKET every day). Verified smart contract on Ethereum mainnet: [0xF1A7A19029B66Bd8C01c74A93722a2B741A1E0Ca](https://etherscan.io/token/0xF1A7A19029B66Bd8C01c74A93722a2B741A1E0Ca)
 
-**#ATICKET** - NFT token that used to enter/create game, for store special data like rare skins, perpetual feature, etc. You can get regular ATICKET by farming on ur website (stake AMONG and get ATICKET every day).
-
-*Update: **$IBY** token from [IbetYou](https://twitter.com/ibetyouxyz) protocol [was integrated into AUF ecosystem](https://twitter.com/ibetyouxyz/status/1420786891717283844). Now you can farm game NFT tickets #ATICKETS on http://amongus.finance website by staking or $AMONG or $IBY!
-
-[$ATICKET](https://etherscan.io/token/0xF1A7A19029B66Bd8C01c74A93722a2B741A1E0Ca) NFT smart contract on Ethereum mainnet: [0xF1A7A19029B66Bd8C01c74A93722a2B741A1E0Ca](https://etherscan.io/token/0xF1A7A19029B66Bd8C01c74A93722a2B741A1E0Ca)
+*Update: **$IBY** token from [IbetYou](https://twitter.com/ibetyouxyz) protocol [was integrated into AUF ecosystem](https://twitter.com/ibetyouxyz/status/1420786891717283844). Now you can farm game NFT tickets #ATICKETS on ur [website](https://amongus.finance) by staking or $AMONG or $IBY!
 
 Staking contract: [0x4929000a05e5B404B8BF3BaA088bE5042E8Ff99e](https://etherscan.io/address/0x4929000a05e5B404B8BF3BaA088bE5042E8Ff99e)
 
